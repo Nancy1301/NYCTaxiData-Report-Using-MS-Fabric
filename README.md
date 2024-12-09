@@ -5,7 +5,7 @@ This project demonstrates an end-to-end data pipeline and analytics solution usi
 
 ---
 ![Workflow Diagram](https://github.com/Nancy1301/NYCTaxiData-Report-Using-MS-Fabric/blob/main/nyc-yellow-taxi-fb.webp) 
-
+![Workflow Diagram](https://github.com/Nancy1301/NYCTaxiData-Report-Using-MS-Fabric/blob/main/dashboard.png) 
 ## **Dataset**
 
 ### **The Link for the Dataset:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
