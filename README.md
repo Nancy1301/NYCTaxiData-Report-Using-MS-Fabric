@@ -77,4 +77,6 @@ This project demonstrates an end-to-end data pipeline and analytics solution usi
 ---
 
 ## **Folder Structure**
+**You can find attached my Reports and Power BI dashboard insights in the attachment files**
+
 
