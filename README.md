@@ -7,6 +7,7 @@ This project demonstrates an end-to-end data pipeline and analytics solution usi
 
 ## **Dataset**
 
+### **The Link for the Dataset:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 ### **Yellow Taxi Trip Records**
 - **Source**: NYC Government Open Data Portal.
 - **Format**: Parquet (optimized for big data analytics).
