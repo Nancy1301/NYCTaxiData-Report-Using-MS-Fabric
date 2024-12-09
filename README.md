@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data pipeline and analytics solution using Microsoft Fabric. It combines **data engineering**, **data warehousing**, **data pipelines**, and **Power BI visualization** to analyze New York City Yellow Taxi (Medallion Taxi) trip records for 2024. The solution showcases how Microsoft Fabric enables seamless integration of various tools for modern data workflows.
 
 ---
-![Workflow Diagram](images/workflow_diagram.png)
+![Workflow Diagram](https://github.com/Nancy1301/NYCTaxiData-Report-Using-MS-Fabric/blob/main/nyc-yellow-taxi-fb.webp) 
 
 ## **Dataset**
 
